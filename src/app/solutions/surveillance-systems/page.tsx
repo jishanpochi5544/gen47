@@ -1,3 +1,4 @@
+"use client"
 // Vercel redeploy trigger: 2024-06-09
 
 import React, { Suspense } from 'react';
